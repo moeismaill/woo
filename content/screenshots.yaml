@@ -1,0 +1,35 @@
+title: Services
+body: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+screenshots:
+  -
+    big: 'b-one.jpg'
+    thumb: 'one.jpg'
+    caption: 'Depression'
+  -
+    big: 'b-two.jpg'
+    thumb: 'two.jpg'
+    caption: 'ADHD'
+  -
+    big: 'b-three.jpg'
+    thumb: 'three.jpg'
+    caption: 'Anxiety'
+  -
+    big: 'b-eight.jpg'
+    thumb: 'eight.jpg'
+    caption: 'Addiction'
+  -
+    big: 'b-five.jpg'
+    thumb: 'five.jpg'
+    caption: 'Bipolar Disorder'
+  -
+    big: 'b-seven.jpg'
+    thumb: 'seven.jpg'
+    caption: 'Therapy Programs'
+  -
+    big: 'b-six.jpg'
+    thumb: 'six.jpg'
+    caption: 'Urgent Care'
+  -
+    big: 'b-four.jpg'
+    thumb: 'four.jpg'
+    caption: 'Therapy'
