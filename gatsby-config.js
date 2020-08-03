@@ -9,9 +9,9 @@ module.exports = {
   siteMetadata: {
     title: `Woo`,
     author: {
-      name: `Joe Bloggs`,
+      name: `Mohammad Ismail`,
     },
-    description: `Woo is a clean, modern, landing page site template.`,
+    description: ``,
 
     /* Choose and arrange the sections to be displayed on the landing page */
     sections: [
@@ -42,7 +42,7 @@ module.exports = {
         url : `https://twitter.com/`,
         fa: `twitter` },
       { service: `Instagram`,
-        url : `https://instagram.com/`,
+        url : `https://instagram.com/ismailmri7`,
         fa: `instagram` },
     ],
 

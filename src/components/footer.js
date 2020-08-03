@@ -60,7 +60,7 @@ export default () => {
         </div>
       </div>
 
-      <p className="copyright">&copy; {new Date().getFullYear()} | Design by <a title="Mohammad Ismail" href="https://www.moe-ismail.com">Mohammad Ismail</a></p>
+      <p className="copyright">&copy; {new Date().getFullYear()} | Design by <a title="Mohammad Ismail" href="https://www.ismailmri.com">Mohammad Ismail</a></p>
 
       <div id="go-top">
         <button title="Back to Top" onClick={() => scrollTo('#top')}>
